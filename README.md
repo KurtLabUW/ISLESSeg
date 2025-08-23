@@ -1,9 +1,9 @@
-# isles24-docker-submission
+# Clinically-Informed Preprocessing for ISLES'24 Stroke Segmentation
 
-This is the docker files for Kurtlab.
+This is the docker files for the paper "Clinically-Informed Preprocessing Improves Stroke Segmentation in Low-Resource Settings".
 
 Authors:
-Tianyi Ren and Hitender Oswal
+Juampablo E. Heras Rivera, Hitender Oswal, Tianyi Ren, Yutong Pan, William Henry, Caitlin M. Neher, Mehmet Kurt
 
 ## Instructions
 
