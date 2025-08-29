@@ -3,7 +3,7 @@
 This is the docker files for the paper "Clinically-Informed Preprocessing Improves Stroke Segmentation in Low-Resource Settings".
 
 Authors:
-**Juampablo E. Heras Rivera\***, **Hitender Oswal\***, **Tianyi Ren**, Yutong Pan, William Henry, Caitlin M. Neher, Mehmet Kurt  
+**Juampablo E. Heras Rivera\***, **Hitender Oswal\***, **Tianyi Ren\***, Yutong Pan, William Henry, Caitlin M. Neher, Mehmet Kurt  
 
 \* **Co-first authors**
 
